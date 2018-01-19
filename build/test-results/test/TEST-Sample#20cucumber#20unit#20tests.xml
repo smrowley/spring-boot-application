@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Sample cucumber unit tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-01-19T17:23:51" hostname="x1carbon" time="0.117">
+  <properties/>
+  <testcase name="Looking up person by email should return a person with the proper name" classname="Sample cucumber unit tests" time="0.117"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
