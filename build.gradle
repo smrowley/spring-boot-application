@@ -65,10 +65,6 @@ task integrationTest(type: Test) {
     	showStandardStreams = true
         events "failed", "standardOut", "standardError"
     }
-    
-    options {
-        systemProperties(System.getProperties())
-    }
 }
 
 tasks.withType(Test) {
